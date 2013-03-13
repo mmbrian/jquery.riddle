@@ -19,5 +19,5 @@ For a live demo, check out [my blog] (http://mm-brian.appspot.com/blog/) & choos
 to redirect to its permenant page. Wait until the page is fully loaded, now click on the post title again and see what
 happens!
 
-#Licence
-© 2013, Mohsen Mansouryar Released under the [MIT License] ().
+#License
+© 2013, Mohsen Mansouryar Released under the [MIT License] (/blob/master/LICENSE).
