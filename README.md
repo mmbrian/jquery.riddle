@@ -20,4 +20,4 @@ to redirect to its permenant page. Wait until the page is fully loaded, now clic
 happens!
 
 #License
-© 2013, Mohsen Mansouryar Released under the [MIT License] (/blob/master/LICENSE).
+© 2013, Mohsen Mansouryar Released under the [MIT License] (/LICENSE).
